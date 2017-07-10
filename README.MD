@@ -1,5 +1,5 @@
 # CodeLab-React-Fundamentals
-# 출처 : https://github.com/velopert/react-codelab-fundamentals.git
+## 출처 : https://github.com/velopert/react-codelab-fundamentals.git
 ## About
 
 React 기본 작업 환경
