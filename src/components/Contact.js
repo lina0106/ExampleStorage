@@ -1,7 +1,10 @@
 import React from 'react';
 import ContactInfo from './ContactInfo';
 import ContactDetails from './ContactDetails';
+
+//-- npm install --save react-addons-update
 import update from 'react-addons-update';
+
 
 export default class Contact extends React.Component {
 
